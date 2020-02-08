@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Grade Calculator</string>
+    <string name="enter_the_individual_assignment_points_earned">Enter the assignment points earned</string>
+    <string name="cmsc_355_spring_2020">CMSC 355, Spring 2020</string>
+    <string name="grade_calculator">Grade Calculator</string>
+    <string name="name">Name</string>
+    <string name="nana_afia_twumasi_ankrah">Nana Afia Twumasi-Ankrah</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="enter_the_assignment_points_earned">Enter the assignment points earned</string>
+    <string name="enter_the_assignment_points_possible">Enter the assignment points possible</string>
+    <string name="enter_the_team_project_points_earned">Enter the team project points earned</string>
+    <string name="your_course_grade_calculates_to">Your course grade calculates to</string>
+    <string name="enter_the_midterm_exam_points_earned">Enter the midterm exam points earned</string>
+    <string name="enter_the_midterm_exam_points_possible">Enter the midterm exam points possible</string>
+    <string name="enter_the_final_exam_points_earned">Enter the final exam points earned</string>
+    <string name="enter_the_final_exam_points_possible">Enter the final exam points possible</string>
+    <string name="enter_the_team_project_points_possible">Enter the team project points possible</string>
+
+
+</resources>
